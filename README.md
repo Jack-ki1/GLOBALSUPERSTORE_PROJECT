@@ -29,7 +29,6 @@ The Global Superstore dataset consists of transactional data from a fictional su
 - [GLOBALSUPERSTORE_DATA%20-DUPLICATE1.csv](file:///c:/Users/Lenovo/Desktop/APPS_N_FULL-PROJECTS/GLOBALSUPERSTORE_PROJECT/GLOBALSUPERSTORE_DATA%20-DUPLICATE1.csv): A duplicate/cleaned version of the dataset
 - [GLOBALSUPERSTORE_INITIAL.ipynb](file:///c:/Users/Lenovo/Desktop/APPS_N_FULL-PROJECTS/GLOBALSUPERSTORE_PROJECT/GLOBALSUPERSTORE_INITIAL.ipynb): Initial exploratory data analysis notebook
 - [GLOBALSUPERSTORE_FINAL.ipynb](file:///c:/Users/Lenovo/Desktop/APPS_N_FULL-PROJECTS/GLOBALSUPERSTORE_PROJECT/GLOBALSUPERSTORE_FINAL.ipynb): Final comprehensive analysis notebook
-- [GLOBALSUPERSTORE.md](file:///c:/Users/Lenovo/Desktop/APPS_N_FULL-PROJECTS/GLOBALSUPERSTORE_PROJECT/GLOBALSUPERSTORE.md): Original project documentation
 - [GLOBALSUPERSTORE_PB.pbix](file:///c:/Users/Lenovo/Desktop/APPS_N_FULL-PROJECTS/GLOBALSUPERSTORE_PROJECT/GLOBALSUPERSTORE_PB.pbix): Power BI visualization file
 - [GLOBALSUPERSTORE_QUIZ.pdf](file:///c:/Users/Lenovo/Desktop/APPS_N_FULL-PROJECTS/GLOBALSUPERSTORE_PROJECT/GLOBALSUPERSTORE_QUIZ.pdf): Assessment document related to the project
 
