@@ -1,0 +1,26 @@
+﻿ROW_ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,City,State,Country,Region,Market,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Shipping Cost,Order Priority
+40098,CA-2014-AB10015140-41954,11/11/2014,11/13/2014,First Class,AB-100151402,Aaron Bergman,Consumer,Oklahoma City,Oklahoma,United States,Central US,USCA,TEC-PH-5816,Technology,Phones,Samsung Convoy 3,221.98,2,0,62.15,40.77,High
+26341,IN-2014-JR162107-41675,2/5/2014,2/7/2014,Second Class,JR-162107,Justin Ritter,Corporate,Wollongong,New South Wales,Australia,Oceania,Asia Pacific,FUR-CH-5379,Furniture,Chairs,"Novimex Executive Leather Armchair, Black",3709.4,9,0.1,-288.77,923.63,Critical
+25330,IN-2014-CR127307-41929,10/17/2014,10/18/2014,First Class,CR-127307,Craig Reiter,Consumer,Brisbane,Queensland,Australia,Oceania,Asia Pacific,TEC-PH-5356,Technology,Phones,,5175.17,9,0.1,919.97,915.49,Medium
+13524,ES-2014-KM1637548-41667,1/28/2014,1/30/2014,First Class,KM-1637548,Katherine Murray,Home Office,Berlin,Berlin,Germany,Western Europe,Europe,TEC-PH-5267,Technology,Phones,"Motorola Smart Phone, Cordless",2892.51,5,0.1,-96.54,910.16,Medium
+47221,SG-2014-RH9495111-41948,11/5/2014,11/6/2014,Same Day,RH-9495111,Rick Hansen,Consumer,Dakar,Dakar,Senegal,Western Africa,Africa,TEC-CO-6011,Technology,Copiers,"Sharp Wireless Fax, High-Speed",2832.96,8,0,311.52,903.04,Critical
+22732,IN-2014-JM156557-41818,6/28/2014,7/1/2014,Second Class,JM-156557,Jim Mitchum,Corporate,Sydney,New South Wales,Australia,Oceania,Asia Pacific,TEC-PH-5842,Technology,Phones,"Samsung Smart Phone, with Caller ID",2862.68,5,0.1,763.28,897.35,Critical
+30570,IN-2012-TS2134092-41219,11/6/2012,11/8/2012,First Class,TS-2134092,Toby Swindell,Consumer,Porirua,Wellington,New Zealand,Oceania,Asia Pacific,FUR-CH-5378,Furniture,Chairs,"Novimex Executive Leather Armchair, Adjustable",1822.08,4,0,564.84,894.77,Critical
+31192,IN-2013-MB1808592-41378,4/14/2013,4/18/2013,Standard Class,MB-1808592,Mick Brown,Consumer,Hamilton,Waikato,New Zealand,Oceania,Asia Pacific,FUR-TA-3764,Furniture,Tables,"Chromcraft Conference Table, Fully Assembled",5244.84,6,0,996.48,878.38,High
+40099,CA-2014-AB10015140-41954,11/11/2014,11/13/2014,First Class,AB-100151402,Aaron Bergman,Consumer,Oklahoma City,Oklahoma,United States,Central US,USCA,FUR-BO-5957,Furniture,Bookcases,"Sauder Facets Collection Library, Sky Alder Finish",341.96,2,0,54.71,25.27,High
+36258,CA-2012-AB10015140-40974,3/6/2012,3/7/2012,First Class,AB-100151404,Aaron Bergman,Consumer,Seattle,Washington,United States,Western US,USCA,FUR-CH-4421,Furniture,Chairs,"Global Push Button Manager's Chair, Indigo",48.71,1,0.2,5.48,11.13,High
+36259,CA-2012-AB10015140-40974,3/6/2012,3/7/2012,First Class,AB-100151404,Aaron Bergman,Consumer,Seattle,Washington,United States,Western US,USCA,OFF-AR-5309,Office Supplies,Art,Newell 330,17.94,3,0,4.66,4.29,High
+28879,ID-2013-AJ107801-41383,4/19/2013,4/22/2013,First Class,AJ-107801,Anthony Jacobs,Corporate,Kabul,Kabul,Afghanistan,Southern Asia,Asia Pacific,FUR-TA-3420,Furniture,Tables,"Bevis Conference Table, Fully Assembled",4626.15,5,0,647.55,835.57,High
+45794,SA-2012-MM7260110-41269,12/26/2012,12/28/2012,Second Class,MM-7260110,Magdelene Morse,Consumer,Jizan,Jizan,Saudi Arabia,Western Asia,Asia Pacific,TEC-PH-3807,Technology,Phones,"Cisco Smart Phone, with Caller ID",2616.96,4,0,1151.4,832.41,Critical
+4132,MX-2013-VF2171518-41591,11/13/2013,11/13/2013,Same Day,VF-2171518,Vicky Freymann,Home Office,Toledo,Parana,Brazil,South America,LATAM,FUR-CH-4530,Furniture,Chairs,"Harbour Creations Executive Leather Armchair, Adjustable",2221.8,7,0,622.02,810.25,Critical
+,,,,,,,,,,,,,,,,,,,,,,
+Row Labels,Sum of Sales,,,,,,,,,,,,,,,,,,,,,
+Central US,563.94,,,,,,,,,,,,,,,,,,,,,
+Oceania,18814.17,,,,,,,,,,,,,,,,,,,,,
+South America,2221.8,,,,,,,,,,,,,,,,,,,,,
+Southern Asia,4626.15,,,,,,,,,,,,,,,,,,,,,
+Western Africa,2832.96,,,,,,,,,,,,,,,,,,,,,
+Western Asia,2616.96,,,,,,,,,,,,,,,,,,,,,
+Western Europe,2892.51,,,,,,,,,,,,,,,,,,,,,
+Western US,66.65,,,,,,,,,,,,,,,,,,,,,
+Grand Total,34635.14,,,,,,,,,,,,,,,,,,,,,
